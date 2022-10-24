@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585351638925",
+    "project_id": "attack-on-titan-de553",
+    "storage_bucket": "attack-on-titan-de553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585351638925:android:0b66fa47949f97a71857c4",
+        "android_client_info": {
+          "package_name": "com.mazen.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585351638925-9qkjh7vaof5arl1v75qiile61nbdngup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgFy3nSZbfWLn6IFQcj-RHRIZ7F6frheU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585351638925-9qkjh7vaof5arl1v75qiile61nbdngup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
